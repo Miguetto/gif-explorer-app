@@ -1,7 +1,8 @@
 # Gif Explorer
-## [Échale un vistazo :mag:](https://miguetto.github.io/gif-explorer-app/)
-
 Pequeña aplicación para buscar gifs haciendo peticiones a **GIPHY API**.
+
+
+**[Échale un vistazo :mag:](https://miguetto.github.io/gif-explorer-app/)**
 
 ## En vivo
 ![app](/public/gif-explorer-app.gif)
